@@ -23,7 +23,8 @@ public class ConfigurationWiki {
         capabilities.setCapability("appActivities", ".main.MainActivity");
 
         capabilities.setCapability("automationName", "Appium");
-        capabilities.setCapability("app","\"C:\\Users\\Adam-milo\\Desktop\\תל-רן\\Lessons_base\\QA\\lessons\\Manual\\MOB_test\\apk\\org.wikipedia.apk\"");
+    capabilities.setCapability("app","C:/Users/Adam-milo/Documents/QA/Mobile/wiki.apk");
+
         driver = new AppiumDriver<MobileElement>(new URL("http://127.0.0.1:4723/wd/hub"),capabilities);
 
 
