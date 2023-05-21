@@ -1,0 +1,463 @@
+19:46:18.698  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:19.243  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:19.399  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:19.697  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:19.785  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:46:20.786  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:46:20.914  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:46:22.072  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:46:22.159  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:46:22.787  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:46:22.893  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:46:23.502  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:46:23.586  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:46:24.185  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:46:24.280  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']
+19:46:24.363  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']
+19:46:24.810  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_button']
+19:46:25.534  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/login_button']
+19:46:25.601  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_button']
+19:46:25.691  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/login_button']
+19:46:25.762  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:26.018  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:26.022  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@66bf40e5
+19:46:26.353  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2786.png
+19:46:26.883  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:26.962  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:26.963  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@7d42542
+19:46:27.236  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2787.png
+19:46:27.743  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:28.386  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:28.428  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:28.703  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:28.780  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:46:29.740  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:46:29.787  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:46:29.835  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:46:29.897  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:30.394  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:30.592  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:30.926  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:30.987  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:46:31.084  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:46:31.085  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_account_name']}[Ljava.lang.StackTraceElement;@4bc6da03
+19:46:31.750  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2791.png
+19:46:32.264  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:46:32.334  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:46:32.399  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:32.449  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:32.450  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@432af457
+19:46:32.925  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2792.png
+19:46:33.460  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:33.502  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:33.502  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@357bc488
+19:46:34.068  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2794.png
+19:46:34.583  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:34.653  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:34.653  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@dd3f8aa
+19:46:35.174  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2795.png
+19:46:35.682  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:35.753  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:35.754  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@7da635c0
+19:46:36.332  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2796.png
+19:46:36.848  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:36.905  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:36.905  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@168ad26f
+19:46:37.472  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2797.png
+19:46:37.976  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:38.035  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:38.035  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@37a9b687
+19:46:38.559  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2798.png
+19:46:39.086  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:39.137  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:39.138  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@3fcbc766
+19:46:39.654  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2799.png
+19:46:40.168  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:40.217  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:40.218  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@ea7a4c3
+19:46:40.747  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2800.png
+19:46:41.258  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:41.320  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:41.321  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@3e900e1a
+19:46:41.830  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2801.png
+19:46:42.341  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:42.395  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:42.396  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@7fdd43cd
+19:46:42.913  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2802.png
+19:46:43.428  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:43.478  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:43.478  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@ea00de
+19:46:44.015  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2804.png
+19:46:44.528  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:44.577  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:44.578  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@4cdba2ed
+19:46:45.128  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2805.png
+19:46:45.651  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:45.704  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:45.705  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@1cbc5693
+19:46:46.227  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2806.png
+19:46:46.730  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:46.782  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:46.783  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@d3e3085
+19:46:47.321  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2807.png
+19:46:47.832  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:47.887  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:47.888  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@4e80a001
+19:46:48.438  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2808.png
+19:46:48.977  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:49.034  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:49.035  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@d54d0f5
+19:46:49.543  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2809.png
+19:46:50.055  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:50.104  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:50.105  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@188a5fc2
+19:46:50.635  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2810.png
+19:46:51.151  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:51.212  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:51.212  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@489bc8fd
+19:46:51.704  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2811.png
+19:46:52.223  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:52.272  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:52.272  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@57f8951a
+19:46:52.802  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2812.png
+19:46:53.316  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:53.370  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:53.371  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@13d019a4
+19:46:53.912  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2813.png
+19:46:54.435  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:54.480  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:54.482  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@647b9364
+19:46:55.009  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2815.png
+19:46:55.515  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:55.575  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:55.576  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@193eb1ba
+19:46:56.089  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2816.png
+19:46:56.608  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:56.661  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:56.662  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@7f97bc14
+19:46:57.192  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2817.png
+19:46:57.704  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:57.757  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:57.757  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@15986dd5
+19:46:58.312  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2818.png
+19:46:58.826  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:58.867  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:58.867  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@467045c4
+19:46:59.396  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2819.png
+19:46:59.907  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:59.959  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:46:59.960  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@5e0c4f21
+19:47:00.482  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2820.png
+19:47:01.000  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:01.575  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:01.576  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@28e8888d
+19:47:02.109  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2822.png
+19:47:02.622  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:02.666  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:02.667  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@1ac730cd
+19:47:03.204  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2823.png
+19:47:03.720  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:03.780  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:03.782  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@65be88ae
+19:47:04.341  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2824.png
+19:47:04.856  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:04.907  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:04.908  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@1ab14636
+19:47:05.445  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2825.png
+19:47:05.954  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:06.007  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:06.007  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@2415e4c7
+19:47:06.526  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2826.png
+19:47:07.045  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:07.097  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:07.097  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@2f995afc
+19:47:07.642  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2827.png
+19:47:08.149  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:08.204  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:08.205  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@6637a365
+19:47:08.719  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2828.png
+19:47:09.257  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:09.302  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:09.303  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@40717ed
+19:47:09.827  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2829.png
+19:47:10.353  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:10.406  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:10.406  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@39549f33
+19:47:10.935  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2830.png
+19:47:11.456  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:11.510  INFO  manage.AppiumListener - The element was found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:47:11.511  INFO  manage.AppiumListener - You have a problem with---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WS03HP-5CD1463S', ip: '10.100.102.29', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Adam-milo/Document..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: N37, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: f30594e7-04db-45b2-97b2-618ab342b210
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@11ede87f
+19:47:12.049  INFO  manage.AppiumListener - Screen with error---src\test\resources\Screens\screen2832.png
